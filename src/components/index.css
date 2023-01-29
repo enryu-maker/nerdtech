@@ -1,0 +1,11 @@
+.Link {
+  font-family: system-ui;
+  font-size: 18px;
+  color: black;
+  text-decoration: none;
+  transition: 0.2s;
+  font-weight: 400;
+}
+.Link:hover {
+  color: green;
+}
